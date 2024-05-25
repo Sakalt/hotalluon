@@ -4,7 +4,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "人。人間。永球人。"
+        "explanation": "人。人間。蛍球人。"
       }
     ],
     "append": [
@@ -13,7 +13,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ha1",
+    "pron": "huo1",
     "num": "1"
   },
   {
@@ -30,7 +30,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nai2",
+    "pron": "nang2",
     "num": "2"
   },
   {
@@ -47,7 +47,7 @@
         "explanation": ""
       }
     ],
-    "pron": "taos3",
+    "pron": "taing2",
     "num": "3"
   },
   {
@@ -64,7 +64,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1 taos3",
+    "pron": "fi3 taing2",
     "num": "-"
   },
   {
@@ -81,7 +81,7 @@
         "explanation": ""
       }
     ],
-    "pron": "xe3",
+    "pron": "xo2",
     "num": "4"
   },
   {
@@ -102,7 +102,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2",
+    "pron": "aoyal",
     "num": "5"
   },
   {
@@ -119,7 +119,7 @@
         "explanation": ""
       }
     ],
-    "pron": "lung2 me2",
+    "pron": "aoyal he2",
     "num": "-"
   },
   {
@@ -144,7 +144,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3",
+    "pron": "nu",
     "num": "6"
   },
   {
@@ -161,7 +161,7 @@
         "explanation": ""
       }
     ],
-    "pron": "so3 luong3",
+    "pron": "nu tan",
     "num": "-"
   },
   {
@@ -178,7 +178,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ge2",
+    "pron": "jua1",
     "num": "7"
   },
   {
@@ -203,7 +203,7 @@
         "explanation": "餐。こちらは調理された料理を指す。それに対して名詞としての「食」は、調理されていない生野菜なども含む。"
       }
     ],
-    "pron": "bua1",
+    "pron": "baon1",
     "num": "8"
   },
   {
@@ -237,7 +237,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1 baon2",
+    "pron": "hung1 baon2",
     "num": "-"
   },
   {
@@ -254,7 +254,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kus3",
+    "pron": "hai1",
     "num": "10"
   },
   {
@@ -279,7 +279,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3",
+    "pron": "xiap",
     "num": "11"
   },
   {
@@ -296,7 +296,7 @@
         "explanation": ""
       }
     ],
-    "pron": "yao1",
+    "pron": "nao1",
     "num": "12"
   },
   {
@@ -321,7 +321,7 @@
         "explanation": ""
       }
     ],
-    "pron": "mail2",
+    "pron": "aing2",
     "num": "13"
   },
   {
@@ -338,7 +338,7 @@
         "explanation": ""
       }
     ],
-    "pron": "nun2",
+    "pron": "kua",
     "num": "14"
   },
   {
@@ -359,7 +359,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ao3",
+    "pron": "dung",
     "num": "15"
   },
   {
@@ -384,7 +384,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2",
+    "pron": "fang1",
     "num": "16"
   },
   {
@@ -401,7 +401,7 @@
         "explanation": ""
       }
     ],
-    "pron": "cai1",
+    "pron": "cun1",
     "num": "17"
   },
   {
@@ -422,7 +422,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vuos1",
+    "pron": "hung1",
     "num": "18"
   },
   {
@@ -443,7 +443,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1",
+    "pron": "hotal2",
     "num": "19"
   },
   {
@@ -468,7 +468,7 @@
         "explanation": "星としては惑星や衛星、恒星などをまとめて指す。"
       }
     ],
-    "pron": "vas1",
+    "pron": "ao1",
     "num": "20"
   },
   {
@@ -476,7 +476,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "灼陽。"
+        "explanation": "燃陽。"
       }
     ],
     "append": [
@@ -485,7 +485,7 @@
         "explanation": ""
       }
     ],
-    "pron": "kuang1 vas1",
+    "pron": "hotal2 ao1",
     "num": "-"
   },
   {
@@ -493,7 +493,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球月。"
+        "explanation": "蛍球月。"
       }
     ],
     "append": [
@@ -502,7 +502,7 @@
         "explanation": ""
       }
     ],
-    "pron": "vo2 vas1",
+    "pron": "long2 ao1",
     "num": "-"
   },
   {
@@ -510,7 +510,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "霞星。"
+        "explanation": "蒸星。"
       }
     ],
     "append": [
@@ -519,7 +519,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sing1 vas1",
+    "pron": "xing2 ao2",
     "num": "-"
   },
   {
@@ -527,7 +527,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "焔星。"
+        "explanation": "赤星。"
       }
     ],
     "append": [
@@ -536,7 +536,7 @@
         "explanation": ""
       }
     ],
-    "pron": "tang2 vas1",
+    "pron": "fang2 vas1",
     "num": "-"
   },
   {
@@ -544,7 +544,7 @@
     "mean": [
       {
         "partOfSpeech": "名",
-        "explanation": "永球。"
+        "explanation": "蛍球。"
       }
     ],
     "append": [
@@ -553,7 +553,7 @@
         "explanation": ""
       }
     ],
-    "pron": "qim3 luong3",
+    "pron": "xiap tan",
     "num": "-"
   },
   {
@@ -3587,7 +3587,7 @@
         "explanation": ""
       }
     ],
-    "pron": "zai3",
+    "pron": "kuang1",
     "num": "101"
   },
   {
@@ -3621,7 +3621,7 @@
         "explanation": ""
       }
     ],
-    "pron": "dais2",
+    "pron": "del1",
     "num": "103"
   },
   {
@@ -3642,7 +3642,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1",
+    "pron": "pung1",
     "num": "104"
   },
   {
@@ -3659,7 +3659,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2 huo1",
+    "pron": "pul3 kiaol1",
     "num": "-"
   },
   {
@@ -3676,7 +3676,7 @@
         "explanation": ""
       }
     ],
-    "pron": "hua1 pu2",
+    "pron": "pung1 pul3",
     "num": "-"
   },
   {
@@ -3693,7 +3693,7 @@
         "explanation": ""
       }
     ],
-    "pron": "pu2",
+    "pron": "pul3",
     "num": "105"
   },
   {
@@ -3714,7 +3714,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3",
+    "pron": "muon1",
     "num": "106"
   },
   {
@@ -3731,7 +3731,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 bun2",
+    "pron": "muon1 luon1",
     "num": "-"
   },
   {
@@ -3748,7 +3748,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 mu1",
+    "pron": "muon1 ju1",
     "num": "-"
   },
   {
@@ -3765,7 +3765,7 @@
         "explanation": ""
       }
     ],
-    "pron": "fuon3 qo1",
+    "pron": "muon1 qu1",
     "num": "-"
   },
   {
@@ -3782,7 +3782,7 @@
         "explanation": ""
       }
     ],
-    "pron": "main2 fuon3 mu1",
+    "pron": "lep3 muon1 qu1",
     "num": "-"
   },
   {
@@ -3799,7 +3799,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1 fuon3",
+    "pron": "dai1 muon1",
     "num": "-"
   },
   {
@@ -3820,7 +3820,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ve1",
+    "pron": "fi3",
     "num": "107"
   },
   {
@@ -3841,7 +3841,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ba1",
+    "pron": "dai1",
     "num": "108"
   },
   {
@@ -3858,7 +3858,7 @@
         "explanation": ""
       }
     ],
-    "pron": "ye2",
+    "pron": "yia1",
     "num": "109"
   },
   {
@@ -3875,7 +3875,7 @@
         "explanation": ""
       }
     ],
-    "pron": "sua3 sus3",
+    "pron": "suang1 nuang2",
     "num": "-"
   },
   {
@@ -3892,7 +3892,7 @@
         "explanation": ""
       }
     ],
-    "pron": "buo3",
+    "pron": "shel1",
     "num": "110"
   },
   {
